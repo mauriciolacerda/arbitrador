@@ -1,2 +1,2 @@
 # sgms
-Respositorio do SGMS
+Repositorio do SGMS
